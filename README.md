@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif))](https://milanprajapati.com.np)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif))](https://milanprajapati.com.np)
 
 <h1 align="center">Hi 👋, I'm Milan Praz</h1>
 <h3 align="center">A passionate FullStack developer from Nepal</h3>
