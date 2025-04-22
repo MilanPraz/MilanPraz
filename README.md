@@ -30,3 +30,21 @@ I love building things that make life easier, prettier, or just more fun.</h3>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanPraz&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MilanPraz&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MilanPraz&theme=vue-dark&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanPraz&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
