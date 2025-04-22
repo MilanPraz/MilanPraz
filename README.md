@@ -12,12 +12,12 @@ I love building things that make life easier, prettier, or just more fun.</h3>
 - 🌱 I’m currently learning **Typescript & Nextjs**
 
 - 👨‍💻 All of my projects are available at [milanprajapati.com.np](milanprajapati.com.np)
+  
+- 🛠️ Tech Stack: JavaScript, Typescript, Python, PHP, MySQL
 
-- 💬 Ask me about **react, js, c++**
+- 🎯 Goals for 2025: Contribute more to open source & sharpen my full-stack skills
 
-- 📫 How to reach me **mln.praz12@gmail.com**
-
-- ⚡ Fun fact **I don't have one**
+- ☕ Fuelled by: Coffee, curiosity, and great playlists
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
