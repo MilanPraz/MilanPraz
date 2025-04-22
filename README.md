@@ -1,4 +1,3 @@
-[![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif)](https://milanprajapati.com.np)
 
 <h1 align="center">Hi 👋, I'm Milan Praz</h1>
 <h3 align="center">Hi there! I'm Milan Prajapati — a passionate developer, lifelong learner, and tech enthusiast.
