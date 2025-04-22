@@ -24,6 +24,13 @@ I love building things that make life easier, prettier, or just more fun.</h3>
 
 
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=MilanPraz&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MilanPraz&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanPraz&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanpraz&show_icons=true&locale=en&layout=compact" alt="milanpraz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milanpraz&show_icons=true&locale=en" alt="milanpraz" /></p>
