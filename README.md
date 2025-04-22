@@ -3,7 +3,6 @@
 <h3 align="center">Hi there! I'm Milan Prajapati — a passionate developer, lifelong learner, and tech enthusiast.
 I love building things that make life easier, prettier, or just more fun.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanpraz&label=Profile%20views&color=0e75b6&style=flat" alt="milanpraz" /> </p>
 
